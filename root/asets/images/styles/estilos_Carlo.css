@@ -2,3 +2,7 @@ body article{
     background-color: black;
     color: white;
 }
+nav>ul>li> {
+    text-align: center;
+    font-size: 3rem;
+}
